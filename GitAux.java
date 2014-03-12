@@ -1,16 +1,14 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author Miguel
  */
 public class GitAux {
     
     public void metodoAlumno1(){
+	//Imprime el primer metodo
         System.out.println("metodo 1");
     }
     
